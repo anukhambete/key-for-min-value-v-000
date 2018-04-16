@@ -21,5 +21,8 @@ name_hash.each do |name,value|
   end
   i = i + 1
  end
+end
+
+min_key
   
 end
